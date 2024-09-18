@@ -288,7 +288,7 @@ footer .questions {
     }
     nav
     {
-        max-width: 99vw;
+        max-width: 92vw;
     }
     .hero-buttons {
         display: flex;
@@ -321,5 +321,13 @@ footer .questions {
         width: 317px;
         position: relative;
         z-index: 10px;
+    }
+    .btn
+    {
+        padding: 6px 18px;
+    }
+    nav img
+    {
+        width: 150px;
     }
 }
